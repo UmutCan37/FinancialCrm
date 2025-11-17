@@ -25,6 +25,7 @@ FinancialCRM tam bu problemleri çözmek için geliştirilmiş bir masaüstü uy
 Kullanıcı, tüm finansal verilerini tek bir panel üzerinde yönetebilir, anlık bakiyesini görebilir, son hareketleri inceleyebilir ve finansal durumunu grafikler üzerinden analiz edebilir.
 
 🧩 Özellikler (Detaylı)
+
 🔐 1. Giriş Sistemi
 
 Kullanıcı adı ve şifre ile güvenli oturum açma
